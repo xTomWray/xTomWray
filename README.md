@@ -1,8 +1,8 @@
 
 <p align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTMzcXo1djE5b2J1b3Q3MWQyOTgwaDJsa3VhdHBrNjk2ZzF5Zmx1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="150"/></p>
 <p align="center">
-<a href="https://www.x.com/xTomWray"><img src="https://img.shields.io/twitter/follow/xTomWray?style=for-the-badge" alt="X Badge"></a>
-<a href="https://www.linkedin.com/in/tom-wray-107969168"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.x.com/xTomWray"><img src="https://raw.githubusercontent.com/xTomWray/xTomWray/main/Images/xsocial.svg" width="25px" alt="X Badge"></a>
+<a href="https://www.linkedin.com/in/tom-wray-107969168"><img src="https://raw.githubusercontent.com/xTomWray/xTomWray/main/Images/linkedin.svg" alt="LinkedIn Badge" width="25px"></a>
 </p>
 
 
