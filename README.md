@@ -1,13 +1,12 @@
 
-<p align="center"><img src="https://giphy.com/embed/VbnUQpnihPSIgIXuZv" width="100"/></p>
+<p align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTMzcXo1djE5b2J1b3Q3MWQyOTgwaDJsa3VhdHBrNjk2ZzF5Zmx1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="150"/></p>
 <p align="center">
+<a href="https://www.x.com/xTomWray"><img src="https://img.shields.io/twitter/follow/xTomWray?style=for-the-badge" alt="X Badge"></a>
 <a href="https://www.linkedin.com/in/tom-wray-107969168"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
 
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 ### &nbsp;About Me :
 
