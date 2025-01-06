@@ -17,6 +17,6 @@
 
 ---
 
-### ✍️ Research Publications : 
+### 👨‍🔬 Research Publications ✍️ : 
 - [5G Specifications Formal Verification with Over-the-Air Validation: Prompting is All You Need](https://www.researchgate.net/publication/386513196_5G_Specifications_Formal_Verification_with_Over-the-Air_Validation_Prompting_is_All_You_Need)<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
