@@ -18,5 +18,9 @@
 ---
 
 ### 👨‍🔬 Research Publications ✍️ : 
-- [5G Specifications Formal Verification with Over-the-Air Validation: Prompting is All You Need](https://www.researchgate.net/publication/386513196_5G_Specifications_Formal_Verification_with_Over-the-Air_Validation_Prompting_is_All_You_Need)<!-- BLOG-POST-LIST:START -->
+- [PAVE-MAVLink: Formal Verification of MAVLink 2 for Secure UAV Communications](https://ieeexplore.ieee.org/document/11310743)
+- [PAVE++ Demo: Cross-Layer Formal Verification and OTA Validation for UAV Communications](https://ieeexplore.ieee.org/document/11310334)
+- [5G Specifications Formal Verification with Over-the-Air Validation: Prompting is All You Need](http://ieeexplore.ieee.org/document/10773849)<!-- BLOG-POST-LIST:START -->
+
+
 <!-- BLOG-POST-LIST:END -->
